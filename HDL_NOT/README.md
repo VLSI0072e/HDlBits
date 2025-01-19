@@ -11,4 +11,4 @@ module top_module(
 endmodule
 ```
 - Waveform:
-![Waveform](https://github.com/VLSI0072e/HDlBits/blob/main/image/not_waveform.svg)
+![Waveform](https://github.com/VLSI0072e/HDlBits/blob/main/image/not_waveform.png)
